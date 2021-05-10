@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 40px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin-top: 50px;
+  width: 20%;
+  margin: 0 auto 0;
+
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 30px;
+}
+
+.top {
+  background-color: #caf7e3;
+}
+
+/*.middle {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}*/
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.corona{
+  display: block;
+  margin-left:20px;
+  width: 20%;
+}
